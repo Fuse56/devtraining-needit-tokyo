@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3412ac6b8f033300a8616c7827bdeeae</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-09 17:23:16</sys_created_on>
+        <sys_id>3412ac6b8f033300a8616c7827bdeeae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>534258f58f323300e7e16c7827bdee8f</sys_name>
+        <sys_package display_value="Automated Test Framework for Survey" source="com.glide.automated_testing_impl.survey">16a09c4f24f021108c8bc6863d3fadc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_3412ac6b8f033300a8616c7827bdeeae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-09 17:23:16</sys_updated_on>
+        <test display_value="Assessment: Create assessment as survey creator">534258f58f323300e7e16c7827bdee8f</test>
+        <test_suite display_value="Assessment CORE: Assessment">3121e06b8f033300a8616c7827bdee34</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 18:38:16</sys_created_on>
+        <sys_id>3c550c202ff22110c390b8e72799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assessment: Create assessment as survey creator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_3c550c202ff22110c390b8e72799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 18:38:16</sys_updated_on>
+        <tablename>sys_atf_test_suite_test</tablename>
+    </sys_metadata_link>
+</record_update>
